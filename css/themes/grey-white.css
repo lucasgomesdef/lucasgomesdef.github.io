@@ -1,7 +1,7 @@
 /* Theme */
 
 main {
-	background: #485564;
+	background-image: linear-gradient(to right, rgba(190, 188, 188, 0.781), rgba(255,0,0,0));
 	color: #FAFAFA;
 }
 
